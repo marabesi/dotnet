@@ -1,0 +1,5 @@
+C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\bin\Debug\Fiap.PlataformaNet.Exercicio04Lib.dll
+C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\bin\Debug\Fiap.PlataformaNet.Exercicio04Lib.pdb
+C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.dll
+C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.pdb
+C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.csprojResolveAssemblyReference.cache
