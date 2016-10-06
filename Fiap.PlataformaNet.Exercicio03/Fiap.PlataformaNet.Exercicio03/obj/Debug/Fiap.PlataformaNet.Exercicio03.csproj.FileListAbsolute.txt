@@ -1,0 +1,9 @@
+c:\users\marabesi\documents\visual studio 2015\Projects\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\bin\Debug\Fiap.PlataformaNet.Exercicio03.exe.config
+C:\dotnet\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\bin\Debug\Fiap.PlataformaNet.Exercicio03.exe.config
+C:\dotnet\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\bin\Debug\Fiap.PlataformaNet.Exercicio03.exe
+C:\dotnet\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\bin\Debug\Fiap.PlataformaNet.Exercicio03.pdb
+C:\dotnet\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\obj\Debug\Fiap.PlataformaNet.Exercicio03.csprojResolveAssemblyReference.cache
+C:\dotnet\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\obj\Debug\Fiap.PlataformaNet.Exercicio03.Properties.Resources.resources
+C:\dotnet\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\obj\Debug\Fiap.PlataformaNet.Exercicio03.csproj.GenerateResource.Cache
+C:\dotnet\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\obj\Debug\Fiap.PlataformaNet.Exercicio03.exe
+C:\dotnet\Fiap.PlataformaNet.Exercicio03\Fiap.PlataformaNet.Exercicio03\obj\Debug\Fiap.PlataformaNet.Exercicio03.pdb
