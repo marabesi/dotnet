@@ -18,7 +18,7 @@ namespace Fiap.PlataformaNet.Exercicio04Lib
         
         public Movimentacao() { }
 
-        Movimentacao(ContaCorrente Conta, DateTime Data, string Historico, double Valor)
+        public Movimentacao(ContaCorrente Conta, DateTime Data, string Historico, double Valor)
         {
             this.Conta = Conta;
             this.Data = Data;
@@ -28,7 +28,7 @@ namespace Fiap.PlataformaNet.Exercicio04Lib
 
         public override string ToString()
         {
-            string linha = string.Format("{0:ddd/MM/yyyy} {1,15} {2,-15:N2}", this.Data, this.Historico, this.Valor);
+            string linha = string.Format("{0:ddd/MM/yyyy} {1,-15} {2,15:N2}", this.Data, this.Historico, this.Valor);
 
             return linha;
         }

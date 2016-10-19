@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace Fiap.PlataformaNet.Exercicio04Lib
 {
@@ -37,9 +38,41 @@ namespace Fiap.PlataformaNet.Exercicio04Lib
             Saldo -= valor;
         }
 
+        public virtual void EfetuarDeposito(double valor)
+        {
+            if (valor <= 0)
+            {
+                throw new ArgumentException();
+            }
+
+            Saldo += valor;
+        }
+
         public override string ToString()
         {
             return this.Agencia + " - " + this.Banco;
+        }
+
+        public string ExibirExtrato()
+        {
+            StringBuilder sb = new StringBuilder();
+
+            sb.Append("\nBanco")
+                .Append(this.Banco)
+                .Append("\nAgencia")
+                .Append(this.Agencia)
+                .Append("\nConta")
+                .Append(this.NumeroConta);
+
+            foreach(var item in Movimentos)
+            {
+                sb.Append("\nMov - ").Append(item);
+            }
+
+            sb.Append("\n\nSaldo")
+                .Append(this.Saldo);
+
+            return sb.ToString();
         }
     }
 }

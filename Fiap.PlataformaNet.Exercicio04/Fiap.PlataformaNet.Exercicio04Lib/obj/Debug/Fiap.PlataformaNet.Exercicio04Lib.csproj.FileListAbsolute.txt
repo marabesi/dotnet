@@ -3,3 +3,8 @@ C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\bin\D
 C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.dll
 C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.pdb
 C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.csprojResolveAssemblyReference.cache
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\bin\Debug\Fiap.PlataformaNet.Exercicio04Lib.dll
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\bin\Debug\Fiap.PlataformaNet.Exercicio04Lib.pdb
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.csprojResolveAssemblyReference.cache
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.dll
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04Lib\obj\Debug\Fiap.PlataformaNet.Exercicio04Lib.pdb

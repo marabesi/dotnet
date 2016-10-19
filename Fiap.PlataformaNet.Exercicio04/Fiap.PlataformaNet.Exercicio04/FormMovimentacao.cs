@@ -19,6 +19,9 @@ namespace Fiap.PlataformaNet.Exercicio04
         public FormMovimentacao()
         {
             InitializeComponent();
+
+            operacaoComboBox.Items.Add("Saque");
+            operacaoComboBox.Items.Add("Depósito");
         }
 
         private void incluirClienteButton_Click(object sender, EventArgs e)
@@ -70,6 +73,47 @@ namespace Fiap.PlataformaNet.Exercicio04
             {
                 contaComboBox.Items.Add(conta);
             }
+        }
+
+        private void exibirButton_Click(object sender, EventArgs e)
+        {
+            ContaCorrente conta = (ContaCorrente)contaComboBox.SelectedItem;
+
+            if (conta is ContaEspecial)
+            {
+                conta = (ContaEspecial)contaComboBox.SelectedItem;
+            }
+
+            extratoTextBox.Text = conta.ExibirExtrato();
+        }
+
+        private void operacaoButton_Click(object sender, EventArgs e)
+        {
+            ContaCorrente conta = (ContaCorrente)contaComboBox.SelectedItem;
+
+            if (conta is ContaEspecial)
+            {
+                conta = (ContaEspecial) contaComboBox.SelectedItem;
+            }
+
+            String historico = "Saque";
+            Double valor = Double.Parse(valorTextBox.Text);
+
+            switch (operacaoComboBox.SelectedIndex)
+            {
+                case 0:
+                    conta.EfetuarSaque(valor);
+                    break;
+                case 1:
+                    conta.EfetuarDeposito(valor);
+                    historico = "Depósito";
+                    break;
+                default:
+                    throw new Exception("Selecione uma Operação");
+            }
+            Movimentacao mov = new Movimentacao(conta, DateTime.Now, historico, valor);
+            conta.Movimentos.Enqueue(mov);
+
         }
     }
 }

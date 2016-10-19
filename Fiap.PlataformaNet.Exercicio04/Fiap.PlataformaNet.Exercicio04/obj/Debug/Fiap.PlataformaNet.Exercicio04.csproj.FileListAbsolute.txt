@@ -26,3 +26,14 @@ C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\obj\Debu
 C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\obj\Debug\Fiap.PlataformaNet.Exercicio04.csproj.GenerateResource.Cache
 C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\bin\Debug\Fiap.PlataformaNet.Exercicio04Lib.dll
 C:\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\bin\Debug\Fiap.PlataformaNet.Exercicio04Lib.pdb
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\bin\Debug\Fiap.PlataformaNet.Exercicio04.exe.config
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\obj\Debug\Fiap.PlataformaNet.Exercicio04.exe
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\obj\Debug\Fiap.PlataformaNet.Exercicio04.pdb
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\bin\Debug\Fiap.PlataformaNet.Exercicio04.exe
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\bin\Debug\Fiap.PlataformaNet.Exercicio04.pdb
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\bin\Debug\Fiap.PlataformaNet.Exercicio04Lib.dll
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\bin\Debug\Fiap.PlataformaNet.Exercicio04Lib.pdb
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\obj\Debug\Fiap.PlataformaNet.Exercicio04.csprojResolveAssemblyReference.cache
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\obj\Debug\Fiap.PlataformaNet.Exercicio04.FormMovimentacao.resources
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\obj\Debug\Fiap.PlataformaNet.Exercicio04.Properties.Resources.resources
+C:\Users\rm30490\Downloads\dotnet\Fiap.PlataformaNet.Exercicio04\Fiap.PlataformaNet.Exercicio04\obj\Debug\Fiap.PlataformaNet.Exercicio04.csproj.GenerateResource.Cache

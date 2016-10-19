@@ -348,6 +348,7 @@
             this.exibirButton.TabIndex = 3;
             this.exibirButton.Text = "Exibir Extrato";
             this.exibirButton.UseVisualStyleBackColor = true;
+            this.exibirButton.Click += new System.EventHandler(this.exibirButton_Click);
             // 
             // operacaoButton
             // 
@@ -357,6 +358,7 @@
             this.operacaoButton.TabIndex = 2;
             this.operacaoButton.Text = "Executar Operação";
             this.operacaoButton.UseVisualStyleBackColor = true;
+            this.operacaoButton.Click += new System.EventHandler(this.operacaoButton_Click);
             // 
             // valorTextBox
             // 

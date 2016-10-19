@@ -12,7 +12,9 @@ namespace Fiap.PlataformaNet.Exercicio04Lib
 
         public List<ContaCorrente> Contas { get; set; }
 
-        public Cliente() { }
+        public Cliente() {
+            this.Contas = new List<ContaCorrente>();
+        }
 
         public Cliente(string Cpf, string Nome, string Email)
         {
