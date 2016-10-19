@@ -26,16 +26,23 @@ namespace Fiap.PlataformaNet.Exercicio04
 
         private void incluirClienteButton_Click(object sender, EventArgs e)
         {
-            Cliente cliente = new Cliente();
-            cliente.Cpf = cpfTextBox.Text;
-            cliente.Nome = nomeTextBox.Text;
-            cliente.Email = emailTextBox.Text;
+            try
+            {
+                Cliente cliente = new Cliente();
+                cliente.Cpf = cpfTextBox.Text;
+                cliente.Nome = nomeTextBox.Text;
+                cliente.Email = emailTextBox.Text.ValidarEmail();
 
-            listaCLientes.Add(cliente);
+                listaCLientes.Add(cliente);
 
-            cpfTextBox.Clear();
-            nomeTextBox.Clear();
-            emailTextBox.Clear();
+                cpfTextBox.Clear();
+                nomeTextBox.Clear();
+                emailTextBox.Clear();
+            }
+            catch (Exception error)
+            {
+                MessageBox.Show(error.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void listarClientesButton_Click(object sender, EventArgs e)
@@ -114,6 +121,11 @@ namespace Fiap.PlataformaNet.Exercicio04
             Movimentacao mov = new Movimentacao(conta, DateTime.Now, historico, valor);
             conta.Movimentos.Enqueue(mov);
 
+        }
+
+        private void emailTextBox_Leave(object sender, EventArgs e)
+        {
+            emailTextBox.Text = emailTextBox.Text.RetirarAcentos();
         }
     }
 }
